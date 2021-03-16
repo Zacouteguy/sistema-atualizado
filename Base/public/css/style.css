@@ -1,0 +1,315 @@
+/* ESTILO GERAL DO PROJETO */
+
+* {
+    font-family: 'Roboto';
+    outline: none;
+}
+
+body {
+    min-height: 100vh;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+header {
+    background-color: #FFF;
+    border-bottom: 1px solid #CCC;
+}
+
+.row {
+    margin: 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+
+/* BOTÕES E O NAVBAR */
+
+#navbar img {
+    width: 150px;
+}
+
+#navbar {
+    justify-content: space-between;
+    background-color: #FFF;
+    padding: 5px 10;
+    position: fixed;
+    width: 100%;
+    z-index: 30;
+    top: 00;
+    box-shadow: 0px 5px 15px 0px rgb(43, 43, 44);
+}
+
+#navbar a {
+    font-size: 14px;
+    color: #757575;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    color: rgb(24, 123, 180);
+}
+
+
+/* IMAGEM DE CIMA E CAMPOS DE BUSCA */
+
+#search-container {
+    background-image: url("../img/2.jpg");
+    background-size: 100%;
+    background-position: center;
+    height: 400px;
+    padding: 50px;
+    margin-top: 35px;
+    text-align: center;
+    box-shadow: 0px 7px 17px 0px rgb(43, 43, 44);
+}
+
+#search-container h1 {
+    color: #F2A340;
+    margin-bottom: 30px;
+    font-weight: 900;
+}
+
+#search-container form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#description-container {
+    margin-top: 30px;
+}
+
+
+/* ESTILO PARA CLASSE LISTA DE EVENTOS */
+
+#events-container {
+    padding: 50px;
+}
+
+#events-container h2 {
+    margin-bottom: 10px;
+}
+
+#events-container .subtitle {
+    color: #757575;
+    margin-bottom: 30px;
+}
+
+#cards-container {
+    display: flex;
+}
+
+#events-container .card {
+    min-width: 25%;
+    border-radius: 10px;
+    margin: 5px;
+    flex: 1 1 auto;
+    padding: 0;
+    border: 2px solid #0a0a0a;
+    box-shadow: 0px 7px 17px 0px rgb(43, 43, 44);
+}
+
+#events-container img {
+    max-height: 150px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card .card-date {
+    font-size: 12px;
+    color: #CCC;
+}
+
+.card .card-title {
+    color: #212121;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.card-participants {
+    font-size: 14px;
+    color: #757575;
+}
+
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+    background-color: #353E48;
+    color: #FFF;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+
+/* ESTILO PARA PAGINA DE CRIAR EVENTOS*/
+
+input[type="submit"] {
+    margin-top: 10px;
+    outline: none;
+    box-shadow: 0px 5px 15px 0px rgb(177, 180, 184);
+}
+
+#event-create-container label {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#event-create-container textarea {
+    font-size: 12px;
+}
+
+#event-create-container {
+    padding: 70px;
+}
+
+
+/* personalizar a barra em geral, aqui estou definindo 10px de largura para a barra vertical
+e 10px de altura para a barra horizontal */
+
+ ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+
+/* aqui é para personalizar o fundo da barra, neste caso estou colocando um fundo cinza escuro*/
+
+ ::-webkit-scrollbar-track {
+    background: #333;
+}
+
+
+/* aqui é a alça da barra, que demonstra a altura que você está na página
+estou colocando uma cor azul clara nela*/
+
+ ::-webkit-scrollbar-thumb {
+    background: #4c94bb;
+}
+
+.alert-box {
+    animation: hide 5s 5s forwards;
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1px solid #C3E6CB;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0px 5px 15px 0px rgb(100, 102, 104);
+}
+
+
+/* mensagem sumir em alguns segundos */
+
+@keyframes hide {
+    from {
+        opacity: 1
+    }
+    to {
+        opacity: 0
+    }
+}
+
+.alert-box {
+    animation: hide 3s 3s forwards;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6
+}
+
+
+/* pagina onde mostra os eventos detalhados */
+
+#image-container,
+#info-container {
+    margin-top: 50px;
+}
+
+#image-container img {
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px 0px rgb(100, 102, 104);
+    margin-top: 30px;
+}
+
+#info-container h1 {
+    font-size: 36px;
+    font-weight: 900;
+    margin-top: 30px;
+}
+
+#info-container p {
+    margin: 5;
+    font-size: 14px;
+    display: flex;
+}
+
+#info-container h3,
+#description-container h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#info-container ion-icon {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+#info-container #event-submit {
+    margin: 30px 0;
+    box-shadow: 0px 5px 15px 0px rgb(100, 102, 104);
+}
+
+
+/* Dashboard do usuário*/
+
+.dashboard-title-container {
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+
+.dashboard-events-container th {
+    width: 25%;
+}
+
+.dashboard-events-container form {
+    display: inline-block;
+    box-shadow: 0px 5px 15px 0px rgb(100, 102, 104);
+}
+
+.btn-outline-success {
+    display: inline-block;
+    box-shadow: 0px 5px 15px 0px rgb(100, 102, 104);
+}
+
+
+/* IMAGEM PERVIEW DA PÁGINA EDITAR*/
+
+.img-preview {
+    margin: 30px 0;
+    width: 170px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 15px 0px rgb(100, 102, 104);
+}
+
+.editar_botao {
+    margin: 30px;
+    text-align: center;
+}
