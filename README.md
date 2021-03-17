@@ -35,7 +35,7 @@ nesse conceito base podem ser modelados diversas regras de negócio.
 
 
 <h1 align="center">
-    <img alt="Home" title="#Ecoleta" src="https://user-images.githubusercontent.com/45882588/111512868-f8f54100-872e-11eb-95a3-e3a9b3ea48e8.JPG" />
+    <img alt="Home" title="#Ecoleta" src="https://user-images.githubusercontent.com/45882588/111513113-38239200-872f-11eb-97c4-04299fff21fc.png" />
 </h1>
 
 Na pagina inicial o usuário poderá visualizar todos os eventos disponíveis de forma resumida nos cards.
