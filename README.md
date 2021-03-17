@@ -1,4 +1,19 @@
-Projeto prático: CEISC
+
+
+<h1 align="center">
+    <img alt="Projeto prático: CEISC" title="#Projeto prático: CEISC" src="./assets/banner.png" />
+</h1>
+
+<h1 align="center">
+   ♻️ <a href="#"> Projeto prático: CEISC </a>
+</h1>
+
+<h3 align="center">
+    Your waste collection marketplace. We help the planet to be cleaner!
+</h3>
+
+
+
 
 
 
