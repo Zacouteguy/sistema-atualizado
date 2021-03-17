@@ -29,11 +29,18 @@ DESCRIÇÃO DO PROJETO:
 Nesse projeto foi desenvolvido uma página de Eventos (webinário ou presencial)
 nesse conceito base podem ser modelados diversas regras de negócio.
 
-FUNÇÕES IMPLEMENTADAS:
 
-na pagina inicial o usuário poderá visualizar todos os eventos disponíveis de forma resumida nos cards.
-Acima tem um campo de busc onde pode digitar uma palavra ou letras sobre o evento e dar enter
-que o sistema vai trazer abaixo o resultado da pesquisa. (aqui poderia ser uma busca automática usando ajax.)
+
+## Página inicial (Home)
+
+
+<h1 align="center">
+    <img alt="Home" title="#Ecoleta" src="https://user-images.githubusercontent.com/45882588/111512868-f8f54100-872e-11eb-95a3-e3a9b3ea48e8.JPG" />
+</h1>
+
+Na pagina inicial o usuário poderá visualizar todos os eventos disponíveis de forma resumida nos cards.
+Acima tem um campo de busca onde pode digitar uma palavra ou letras sobre o evento.
+que o sistema vai trazer abaixo o resultado da pesquisa. 
 
 
 Ao clicar em "saber mais" ele é direcionado para uma interface com os dados completo sobre esse evento.
