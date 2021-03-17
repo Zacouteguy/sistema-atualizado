@@ -1,9 +1,6 @@
 
 
-<h1 align="center">
-    <img alt="Projeto prático: CEISC" title="#Projeto prático: CEISC" src="./assets/banner.png" />
-</h1>
-
+<h1>Projeto prático: CEISC</h1>
 
 
 
