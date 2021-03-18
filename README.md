@@ -1,6 +1,6 @@
 
 
-<h1>Projeto prático: CEISC</h1>
+<h1>Teste prático: CEISC</h1>
 
 
 ## Layout
@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-    <img alt="Home" title="#Ecoleta" src="https://user-images.githubusercontent.com/45882588/111509234-4a9bcc80-872b-11eb-9a9f-f630ff43cb1b.JPG" />
+    <img  src="https://user-images.githubusercontent.com/45882588/111509234-4a9bcc80-872b-11eb-9a9f-f630ff43cb1b.JPG" />
 </h1>
 
 
@@ -35,14 +35,17 @@ nesse conceito base podem ser modelados diversas regras de negócio.
 
 
 <h1 align="center">
-    <img alt="Home" title="#Ecoleta" src="https://user-images.githubusercontent.com/45882588/111513113-38239200-872f-11eb-97c4-04299fff21fc.png" />
+    <img  src="https://user-images.githubusercontent.com/45882588/111513113-38239200-872f-11eb-97c4-04299fff21fc.png" />
 </h1>
 
 Na pagina inicial o usuário poderá visualizar todos os eventos disponíveis de forma resumida nos cards.
 Acima tem um campo de busca onde pode digitar uma palavra ou letras sobre o evento.
 que o sistema vai trazer abaixo o resultado da pesquisa. 
 
-
+## Função: SABER MAIS
+<h1 align="center">
+    <img  src="https://user-images.githubusercontent.com/45882588/111556873-52c72c80-876a-11eb-9b23-1ee4d5c2e2a3.jpg" />
+</h1>
 Ao clicar em "saber mais" ele é direcionado para uma interface com os dados completo sobre esse evento.
 
 ## Painel do Adminsitrador
