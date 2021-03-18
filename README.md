@@ -52,7 +52,7 @@ Ao clicar em "saber mais" ele é direcionado para uma interface com os dados com
 
 Na opção "Entrar" é onde o adminsitrador tem a cesso ao dashboard de controle dos eventos.
 
-[x] No Painel do administrador ele poderá criar, editar e excluir eventos:
+- [x] No Painel do administrador ele poderá criar, editar e excluir eventos:
    - [x] Acesso restrito;
    - [x] Visão total das postagens;
    - [x] Acesso a novas funionalidades;
@@ -61,7 +61,11 @@ Na opção "Entrar" é onde o adminsitrador tem a cesso ao dashboard de controle
      - Editar postagens
      - Excluir postagens
 
-
+## Painel: NOVO EVENTO
+<H3>Painel destinado a criação de novas postagens.</H3>
+<h1 align="center">
+    <img alt="CREATE" title="#ARGEMIRO" src="https://user-images.githubusercontent.com/45882588/111556485-82c20000-8769-11eb-8856-c56a6e03c7e7.jpg" />
+</h1>
 
 
 
