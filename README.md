@@ -54,9 +54,9 @@ Ao clicar em "saber mais" ele é direcionado para uma interface com os dados com
     <img  src="https://user-images.githubusercontent.com/45882588/111512206-4329f280-872e-11eb-9651-34e9b144383d.jpg" />
 </h1>
 
-Na opção "Entrar" é onde o adminsitrador tem a cesso ao dashboard de controle dos eventos.
+No menu "Entrar" é onde o administrador fará seu login e senha para ter o cesso ao painel do adminstrador.
 
-- [x] No Painel do administrador ele poderá criar, editar e excluir eventos:
+- [x] Funções do painel do administrador:
    - [x] Acesso restrito;
    - [x] Visão total das postagens;
    - [x] Acesso a novas funionalidades;
