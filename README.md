@@ -11,7 +11,7 @@
 Projeto desenvolvido usando conceitos básicos do framework LARAVEL.
 
 
-DESCRIÇÃO DO PROJETO:
+## DESCRIÇÃO DO PROJETO:
 
 Nesse projeto foi desenvolvido uma página de Eventos (webinário ou presencial).
 Na pagina inicial o usuário poderá visualizar todos os eventos disponíveis (postagens) de forma resumida nos cards.
