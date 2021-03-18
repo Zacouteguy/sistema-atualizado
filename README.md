@@ -43,10 +43,11 @@ Tera um usuário master (administrador). Que através de login e senha terá ace
 
 
 ## Função: SABER MAIS
-<h1 align="center">
-    <img  src="https://user-images.githubusercontent.com/45882588/111556873-52c72c80-876a-11eb-9b23-1ee4d5c2e2a3.jpg" />
 </h1>
 Ao clicar em "saber mais" ele é direcionado para uma interface com os dados completo sobre esse evento.
+
+<h1 align="center">
+    <img  src="https://user-images.githubusercontent.com/45882588/111556873-52c72c80-876a-11eb-9b23-1ee4d5c2e2a3.jpg" />
 
 ## Painel do Administrador
 <h1 align="center">
