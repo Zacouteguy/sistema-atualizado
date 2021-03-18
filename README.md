@@ -13,7 +13,11 @@ Projeto desenvolvido usando conceitos básicos de Laravel.
 
 DESCRIÇÃO DO PROJETO:
 
-Nesse projeto foi desenvolvido uma página de Eventos (webinário ou presencial)
+Nesse projeto foi desenvolvido uma página de Eventos (webinário ou presencial).
+Na pagina inicial o usuário poderá visualizar todos os eventos disponíveis (postagens) de forma resumida nos cards.
+Acima tem um campo de busca onde pode digitar uma palavra ou letras sobre o evento desejado,
+que o sistema vai trazer abaixo o resultado da pesquisa no mural de eventos.
+Tera um usuário master (administrador). Que através de login e senha terá acesso ao painel administrativo, onde poderá criar, editar e excluir postagens.
 
 
 
@@ -36,9 +40,7 @@ Nesse projeto foi desenvolvido uma página de Eventos (webinário ou presencial)
     <img  src="https://user-images.githubusercontent.com/45882588/111513113-38239200-872f-11eb-97c4-04299fff21fc.png" />
 </h1>
 
-Na pagina inicial o usuário poderá visualizar todos os eventos disponíveis de forma resumida nos cards.
-Acima tem um campo de busca onde pode digitar uma palavra ou letras sobre o evento.
-que o sistema vai trazer abaixo o resultado da pesquisa. 
+
 
 ## Função: SABER MAIS
 <h1 align="center">
@@ -69,8 +71,8 @@ Na opção "Entrar" é onde o adminsitrador tem a cesso ao dashboard de controle
 </h1>
 
 
-##Conclusão
-Toda parte de backend, frontend, regra de negócio e banco de dados foi desenvolvido em 7 dias. 
+## Conclusão
+Toda parte de backend, frontend, regra de negócio e tabelas do banco de dados foram desenvolvidos em 7 dias. 
 A aplicação em funcionamento, poderá ser visualizada no endereço: http://testeceisc.hostmore.com.br/
 
 
