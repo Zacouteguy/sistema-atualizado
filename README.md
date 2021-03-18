@@ -8,7 +8,7 @@
 ## Conceito
 
 
-Projeto desenvolvido usando conceitos básicos de Laravel.
+Projeto desenvolvido usando conceitos básicos do framework LARAVEL.
 
 
 DESCRIÇÃO DO PROJETO:
