@@ -1,6 +1,5 @@
 
 
-<h1>Teste prático</h1>
 
 
 
@@ -70,11 +69,6 @@ No menu "Entrar" é onde o administrador fará seu login e senha para ter o cess
 <h1 align="center">
     <img  src="https://user-images.githubusercontent.com/45882588/111556485-82c20000-8769-11eb-8856-c56a6e03c7e7.jpg" />
 </h1>
-
-
-## Conclusão
-Toda parte de backend, frontend, regra de negócio e tabelas do banco de dados foram desenvolvidos em 7 dias. 
-A aplicação em funcionamento, poderá ser visualizada no endereço: http://testeceisc.hostmore.com.br/
 
 
 
